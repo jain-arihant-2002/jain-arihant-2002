@@ -74,6 +74,21 @@
 
 ---
 
+<h3 align="left">🏆 Competitive Programming Profiles:</h3>
+<p align="left">
+    <a href="https://leetcode.com/u/arihantjain2002/" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="35" width="35" />
+        <span>&nbsp;<b>LeetCode</b></span>
+    </a>
+    <br>
+    <a href="https://www.geeksforgeeks.org/user/arihant2002/" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" height="35" width="35" />
+        <span>&nbsp;<b>GeeksforGeeks</b></span>
+    </a>
+</p>
+
+---
+
 <h3 align="left">Featured Projects:</h3>
 
 - 🎓 [**Gurukul LMS**](https://gurukul-v3.vercel.app/) — Full-stack learning management system using Next.js, TypeScript, PostgreSQL, Stripe, and Cloudinary  
