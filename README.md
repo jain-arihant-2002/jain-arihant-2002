@@ -16,7 +16,7 @@
 - 🏥 Previously built a **Hospital Management System** using the **MERN stack (MySQL + JWT Auth)**  
 - 🧩 I love solving real-world problems using clean architecture and efficient data models  
 - ⚡ I'm a **Smart India Hackathon 2024 Semi-Finalist** and a **Smart Delhi Ideathon 2025 Volunteer**  
-- 📫 How to reach me **arihant.jain.2002@outlook.com**
+- 📫 How to reach me **work.jain.arihant@gmail.com**
 
 ---
 
